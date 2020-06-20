@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лекции КТП</string>
+    <string name="action_settings">Настройки</string>
+    <string name="title">Название предемета</string>
+    <string name="teacher">ФИО учителя</string>
+    <string name="about_app">О приложении</string>
+    <string name="subject_is_saved">Прдемет сохранен</string>
+    <string name="theme_is_saved">Тема сохранена</string>
+    <string name="lecture">Лекция</string>
+    <string name="save_lecture">Сохранить</string>
+    <string name="lectureIsDownloaded">Лекция загружена</string>
+    <string name="no_internet_connection">Нет инетернет соединения</string>
+    <string name="Ok_button">Ок</string>
+    <string name="write_button">Написать</string>
+    <string name="download_error">Download Error</string>
+    <string name="about_app_message">Приложение "Лекции КТП" предназначено для получения доступа к лекционным
+        материалам.\n\nПо вопросам актуальности материалов просьба обращаться к преподавателям.\n\nПо вопросам
+        работы приложения писать на почту: lin4rise@gmail.com
+    </string>
+    <string name="enter_subject">Введите предмет</string>
+    <string name="search">Поиск</string>
+    <string name="NoEmailApp">Не обнаружно приложения для отправки e-mail сообщений</string>
+    <string name="attention">Внимание!</string>
+    <string name="lectureWord">Лекция %1$s</string>
+
+
+
+
+
+</resources>

@@ -1,0 +1,50 @@
+{
+  "subjects": [
+    {
+      "subject_id": "3",
+      "subject_teacher":"ФИО",
+      "subject_title": "Предмет 3"
+    },
+    {
+      "subject_id": "4",
+      "subject_teacher":"ФИО",
+      "subject_title": "Предмет 4"
+    },
+    {
+      "subject_id": "5",
+      "subject_teacher":"ФИО",
+      "subject_title": "Предмет 5"
+    },
+    {
+      "subject_id": "6",
+      "subject_teacher":"ФИО",
+      "subject_title": "Предмет 6"
+    },
+    {
+      "subject_id": "7",
+      "subject_teacher":"ФИО",
+      "subject_title": "Предмет 7"
+    },
+    {
+      "subject_id": "8",
+      "subject_teacher":"ФИО",
+      "subject_title": "Предмет 8"
+    },
+    {
+      "subject_id": "9",
+      "subject_teacher":"ФИО",
+      "subject_title": "Предмет 9"
+    },
+    {
+      "subject_id": "10",
+      "subject_teacher":"ФИО",
+      "subject_title": "Предмет 10"
+    },
+    {
+      "subject_id": "11",
+      "subject_teacher":"ФИО",
+      "subject_title": "Предмет 11"
+    }
+
+  ]
+}

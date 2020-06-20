@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:background="@color/white"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content" android:orientation="vertical">
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:id="@+id/template"
+            android:layout_margin="5dp"
+            android:background="@drawable/background_layout_sublv"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" android:layout_weight="1" >
+        <TextView
+                android:text="@string/title"
+                android:paddingStart="10dp"
+                android:paddingEnd="10dp"
+                android:id="@+id/subjectTV"
+                android:layout_weight="1"
+                android:layout_width="match_parent" android:layout_height="0dp" android:textSize="23sp"
+                android:textColor="@color/colorPrimaryDark"/>
+        <TextView
+                android:paddingStart="10dp"
+                android:paddingEnd="10dp"
+                android:text="@string/teacher"
+                android:layout_width="match_parent"
+                android:id="@+id/teacherTV"
+                android:layout_height="wrap_content"
+                android:textSize="19sp"/>
+
+    </LinearLayout>
+</LinearLayout>
